@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/chen/planning/PathPlanning-Opencv/RRT/build",
+  "command": "/usr/bin/c++   -I/usr/local/include/eigen3 -I/home/chen/planning/PathPlanning-Opencv/RRT/include -isystem /usr/local/include -isystem /usr/local/include/opencv    -std=gnu++14 -o CMakeFiles/RRT.dir/src/main.cpp.o -c /home/chen/planning/PathPlanning-Opencv/RRT/src/main.cpp",
+  "file": "/home/chen/planning/PathPlanning-Opencv/RRT/src/main.cpp"
+},
+{
+  "directory": "/home/chen/planning/PathPlanning-Opencv/RRT/build",
+  "command": "/usr/bin/c++   -I/usr/local/include/eigen3 -I/home/chen/planning/PathPlanning-Opencv/RRT/include -isystem /usr/local/include -isystem /usr/local/include/opencv    -std=gnu++14 -o CMakeFiles/RRT.dir/src/rrt.cpp.o -c /home/chen/planning/PathPlanning-Opencv/RRT/src/rrt.cpp",
+  "file": "/home/chen/planning/PathPlanning-Opencv/RRT/src/rrt.cpp"
+}
+]

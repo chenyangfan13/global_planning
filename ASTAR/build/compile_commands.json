@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/chen/planning/PathPlanning-Opencv/ASTAR/build",
+  "command": "/usr/bin/c++   -I/usr/local/include/eigen3 -I/home/chen/planning/PathPlanning-Opencv/ASTAR/include -isystem /usr/local/include -isystem /usr/local/include/opencv    -std=gnu++14 -o CMakeFiles/ASTAR.dir/src/main.cpp.o -c /home/chen/planning/PathPlanning-Opencv/ASTAR/src/main.cpp",
+  "file": "/home/chen/planning/PathPlanning-Opencv/ASTAR/src/main.cpp"
+},
+{
+  "directory": "/home/chen/planning/PathPlanning-Opencv/ASTAR/build",
+  "command": "/usr/bin/c++   -I/usr/local/include/eigen3 -I/home/chen/planning/PathPlanning-Opencv/ASTAR/include -isystem /usr/local/include -isystem /usr/local/include/opencv    -std=gnu++14 -o CMakeFiles/ASTAR.dir/src/Astar.cpp.o -c /home/chen/planning/PathPlanning-Opencv/ASTAR/src/Astar.cpp",
+  "file": "/home/chen/planning/PathPlanning-Opencv/ASTAR/src/Astar.cpp"
+},
+{
+  "directory": "/home/chen/planning/PathPlanning-Opencv/ASTAR/build",
+  "command": "/usr/bin/c++   -I/usr/local/include/eigen3 -I/home/chen/planning/PathPlanning-Opencv/ASTAR/include -isystem /usr/local/include -isystem /usr/local/include/opencv    -std=gnu++14 -o CMakeFiles/ASTAR.dir/src/Node.cpp.o -c /home/chen/planning/PathPlanning-Opencv/ASTAR/src/Node.cpp",
+  "file": "/home/chen/planning/PathPlanning-Opencv/ASTAR/src/Node.cpp"
+}
+]

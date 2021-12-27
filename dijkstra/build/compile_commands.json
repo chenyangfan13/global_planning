@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/chen/planning/PathPlanning-Opencv/dijkstra/build",
+  "command": "/usr/bin/c++  -I/usr/local/include/eigen3 -I/home/chen/planning/PathPlanning-Opencv/dijkstra/include -isystem /usr/local/include/opencv -std=gnu++14 -o CMakeFiles/dijkstra.dir/src/main.cpp.o -c /home/chen/planning/PathPlanning-Opencv/dijkstra/src/main.cpp",
+  "file": "/home/chen/planning/PathPlanning-Opencv/dijkstra/src/main.cpp"
+},
+{
+  "directory": "/home/chen/planning/PathPlanning-Opencv/dijkstra/build",
+  "command": "/usr/bin/c++  -I/usr/local/include/eigen3 -I/home/chen/planning/PathPlanning-Opencv/dijkstra/include -isystem /usr/local/include/opencv -std=gnu++14 -o CMakeFiles/dijkstra.dir/src/dijkstra.cpp.o -c /home/chen/planning/PathPlanning-Opencv/dijkstra/src/dijkstra.cpp",
+  "file": "/home/chen/planning/PathPlanning-Opencv/dijkstra/src/dijkstra.cpp"
+},
+{
+  "directory": "/home/chen/planning/PathPlanning-Opencv/dijkstra/build",
+  "command": "/usr/bin/c++  -I/usr/local/include/eigen3 -I/home/chen/planning/PathPlanning-Opencv/dijkstra/include -isystem /usr/local/include/opencv -std=gnu++14 -o CMakeFiles/dijkstra.dir/src/Node.cpp.o -c /home/chen/planning/PathPlanning-Opencv/dijkstra/src/Node.cpp",
+  "file": "/home/chen/planning/PathPlanning-Opencv/dijkstra/src/Node.cpp"
+}
+]

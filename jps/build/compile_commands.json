@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/chen/planning/tip/jps/build",
+  "command": "/usr/bin/c++  -I/usr/local/include/eigen3 -I/home/chen/planning/tip/jps/include -isystem /usr/local/include/opencv -std=gnu++14 -o CMakeFiles/jps.dir/src/main.cpp.o -c /home/chen/planning/tip/jps/src/main.cpp",
+  "file": "/home/chen/planning/tip/jps/src/main.cpp"
+},
+{
+  "directory": "/home/chen/planning/tip/jps/build",
+  "command": "/usr/bin/c++  -I/usr/local/include/eigen3 -I/home/chen/planning/tip/jps/include -isystem /usr/local/include/opencv -std=gnu++14 -o CMakeFiles/jps.dir/src/jps.cpp.o -c /home/chen/planning/tip/jps/src/jps.cpp",
+  "file": "/home/chen/planning/tip/jps/src/jps.cpp"
+},
+{
+  "directory": "/home/chen/planning/tip/jps/build",
+  "command": "/usr/bin/c++  -I/usr/local/include/eigen3 -I/home/chen/planning/tip/jps/include -isystem /usr/local/include/opencv -std=gnu++14 -o CMakeFiles/jps.dir/src/Node.cpp.o -c /home/chen/planning/tip/jps/src/Node.cpp",
+  "file": "/home/chen/planning/tip/jps/src/Node.cpp"
+}
+]
